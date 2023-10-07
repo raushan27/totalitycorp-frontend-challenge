@@ -4,6 +4,8 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
+https://totalitycorp-frontend-challenge-topaz-eight.vercel.app/
+
 ## Features
 
 - Easy to integrate with Backend
@@ -14,7 +16,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/raushan27/totalitycorp-frontend-challenge.git
 ```
 
 Go to the project directory
